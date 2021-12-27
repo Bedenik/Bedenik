@@ -1,6 +1,6 @@
 ## 🐉Olá! Sou o Erich Bedenik
 
-✍Estudante de Técnico em Informatica na UNIVAP
+✍Formado técnico de TI pela UNIVAP 
 
 ##
 
