@@ -1,6 +1,7 @@
 ## 🐉Olá! Sou o Erich Bedenik
 
 ✍Formado técnico de TI pela UNIVAP 
+<br>
 ✍Estudando Desenvolvimento de Software Multiplataforma na FATEC 
 
 ##
