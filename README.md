@@ -1,5 +1,5 @@
 
-<img width=90% align="center"  src="./assets/bannergit.png" />
+<img width=100% align="center"  src="./assets/bannergit2.png" />
 
 ## My Skills
 
