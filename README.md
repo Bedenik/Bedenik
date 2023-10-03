@@ -1,16 +1,5 @@
-![Bedenik's GitHub Banner](./assets/bannergit.png)
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Spring to frontend development using ReactJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack developer</strong> focused on web and mobile development.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=52% align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bedenik&theme=tokyonight" />
-<img width=30%  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedenik&theme=tokyonight" />
- </div>
- 
- &nbsp;
- &nbsp;
-
-
+<img width=90% align="center"  src="./assets/bannergit.png" />
 
 ## My Skills
 
