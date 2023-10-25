@@ -56,7 +56,7 @@
 
 
 
-<h2>Thanks for the visit!</h2>
+<h2>Thanks for visiting!</h2>
 <img src="https://media.giphy.com/media/ree8xCap5nHi/giphy.gif" width="200" height="200" />
  
 
